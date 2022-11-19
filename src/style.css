@@ -25,7 +25,6 @@ body{
 }
 
 
-
 h1{
     font-size: 64px;
     margin-bottom: 60px;
@@ -58,7 +57,7 @@ input{
 
 header{
     display: grid;
-    background-color: #a6ca57;
+    background-color: #a6ca57; 
     color: white;
     color: var(--primary-color);
 }
